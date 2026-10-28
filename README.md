@@ -32,11 +32,13 @@
 Housing finder for students near Cal State East Bay. It shows the **true monthly cost** (rent plus the utilities tenants actually paid), reviews **verified by school email**, AI summaries of tenant feedback, commute times, and an AI lease checker.
 **Stack:** React · Vite · Tailwind · FastAPI · SQLAlchemy · SQLite · Gemini
 **Built for:** MESA U Hacks 3.0 · **Role:** Technical lead (backend, AI, integration)
+🥇 **Technical Excellence Award**, MESA U Hacks 3.0
 
 ### 📦 [ai-supplier-ops-agent](https://github.com/gmvbongulto23/ai-supplier-ops-agent)
 An AI supplier-operations agent that monitors deliveries and inventory, detects shortage risk, and recommends actions.
 **Stack:** Python · Forge · Daytona
 **Built for:** SF Enterprise Hackathon
+🥈 **2nd place**, SF Enterprise Hackathon
 
 ### 🩺 [NurseIQ Study Coach](https://github.com/gmvbongulto23/NurseIQ-Study-Coach)
 A web study app for nursing students with NCLEX-style quizzes, flashcards, a study session logger, and progress tracking.
@@ -55,6 +57,8 @@ Engineering work on the AI features of a production agriculture and website plat
 
 ## 🏆 Highlights
 
+- 🥇 **Technical Excellence Award**, MESA U Hacks 3.0 (DormDex)
+- 🥈 **2nd place**, SF Enterprise Hackathon (ai-supplier-ops-agent)
 - Built and demoed AI products at **hackathons** (MESA U Hacks 3.0, SF Enterprise Hackathon)
 - Led a **technical team** shipping a full-stack app from user interviews to a live demo
 - Designed **RAG and agent workflows** that ground LLM answers in real data
